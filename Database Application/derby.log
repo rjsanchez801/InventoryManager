@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Feb 22 17:56:59 MST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168): instance a816c00e-0177-cc63-a7a8-00000f6094b8 
+on database directory C:\Users\Ramon Joshua Sanchez\eclipse-workspace\Database Application\DatabaseLogic with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/C:/Users/Ramon%20Joshua%20Sanchez/eclipse-workspace/Database%20Application/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=C:\Users\Ramon Joshua Sanchez\eclipse-workspace\Database Application
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
